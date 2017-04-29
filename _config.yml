@@ -1,6 +1,6 @@
 # Site settings
 title: Howpage
-email: johannesborchard@gmail.com
+email: 
 description: Jeder kann Webseiten erstellen
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "www.howpage.de" # the base hostname & protocol for your site
