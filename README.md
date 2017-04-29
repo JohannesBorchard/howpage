@@ -4,6 +4,7 @@ Es handelt sich um einen Online-Kurs zum eigenständigen Entwickeln von Webseite
 
 ## Ist Howpage fertig?
 Aus der Idee wird langsam ein Entwurf. Selbige wird fortgehend verfeinert und der Entwurf nimmt immer mehr Gestalt an.
+<<<<<<< HEAD
 
 # Creative Theme for Jekyll
 
@@ -19,3 +20,5 @@ See it live in action at <https://volny.github.io/creative-theme-jekyll/>
 - Start by adding your info in `_config.yml`
 - In `_layouts/front.html` reorder or remove section as you prefer.
 
+=======
+>>>>>>> origin/master
